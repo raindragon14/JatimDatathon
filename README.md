@@ -12,13 +12,16 @@ This repository contains data analysis work implemented in Jupyter Notebooks, in
 - **Matplotlib / Seaborn**: Statistical data visualization
 
 ## 📁 Repository Structure
-- `Dataset/`: Raw datasets directly sourced from local statistical bureaus (PDRB, UMK, Inflation, Poverty Rate, etc.)
-- `Processed Dataset/`: Cleaned, merged, and transformed datasets ready for analytical modeling
-- `Notebook/`: 
+- `data/raw/`: Raw datasets directly sourced from local statistical bureaus (PDRB, UMK, Inflation, Poverty Rate, etc.)
+- `data/processed/`: Cleaned, merged, and transformed datasets ready for analytical modeling
+- `notebooks/`: 
   - `Mastering_Dataset.ipynb`: Comprehensive data cleaning, merging, and preprocessing pipelines
   - `Notebook_Datathon.ipynb`: In-depth exploratory data analysis (EDA) and advanced predictive modeling
   - `Training.csv`: Curated final training dataset
-- `Model Data/`: Serialized machine learning models, outputs, and model evaluation metrics
+- `models/`: Serialized machine learning models, outputs, and model evaluation metrics
+- `src/`: Reusable Python modules and utility scripts (e.g., `data_loader.py`)
+- `main.py`: Entry point script demonstrating how to load and process data
+- `requirements.txt`: Python dependencies needed to run the notebooks and scripts
 
 ## 📈 Key Analytical Domains
 - Analysis of MSME (UMKM) failure risks and strategic interventions.
