@@ -5,6 +5,18 @@ A comprehensive data analysis and predictive modeling project developed for the 
 ## 🚀 Project Overview
 This repository contains data analysis work implemented in Jupyter Notebooks, interactive visualizations, and structured datasets focusing on East Java's macroeconomic indicators like PDRB (Gross Regional Domestic Product), MSMEs (UMKM) growth, poverty lines, and inflation patterns.
 
+## 🌐 Live Deliverables
+
+### Tableau Dashboard
+Explore the interactive data visualization dashboard:
+- **Link**: [Tableau Public Dashboard](https://public.tableau.com/app/profile/almer.daffa/viz/Book2_17568351307220/Dashboard5)
+- **Features**: Interactive charts, filters, and comprehensive data insights
+
+### Streamlit Web Application
+Access the live web application:
+- **Link**: [Streamlit App](https://appdata-jnqqfyfiusykps37omc2cm.streamlit.app/)
+- **Features**: Real-time data interaction, user-friendly interface, and dynamic visualizations
+
 ## 🛠️ Technologies Used
 - **Jupyter Notebook**: Primary environment for data storytelling and analysis
 - **Python**: Core programming language for data processing
